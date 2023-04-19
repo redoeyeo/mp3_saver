@@ -2,7 +2,6 @@
 ---
 A simple python script from which you can download the songs by just entering the name. You can also download by entering a list of name, youtube link or list of youtube links.
 
-You can try that online. Here is the link ->  http://mp3.amanroy.me
 
 
 [![asciicast](https://asciinema.org/a/222455.svg)](https://asciinema.org/a/222455)
